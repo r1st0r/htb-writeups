@@ -8,6 +8,7 @@ for reconnaissance, exploitation, and privilege escalation.
 | Machine | OS | Difficulty | Key topics |
 |---------|-----|-----------|------------|
 | [Cap](./Cap) | Linux | Easy | IDOR, cleartext credentials, Linux capabilities |
+| [Orion](./Orion) | Linux | Easy | Craft CMS RCE, credential reuse, bcrypt cracking, telnet privesc |
 
 ## About me
 
