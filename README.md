@@ -9,6 +9,7 @@ for reconnaissance, exploitation, and privilege escalation.
 |---------|-----|-----------|------------|
 | [Cap](./Cap) | Linux | Easy | IDOR, cleartext credentials, Linux capabilities |
 | [Orion](./Orion) | Linux | Easy | Craft CMS RCE, credential reuse, bcrypt cracking, telnet privesc |
+| [Nexus](./Nexus) | Linux | Easy | Git history leak, Krayin CRM upload RCE (CVE-2026-38526), path-traversal privesc |
 
 ## About me
 
