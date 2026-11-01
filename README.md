@@ -11,6 +11,7 @@ for reconnaissance, exploitation, and privilege escalation.
 | [Orion](./Orion) | Linux | Easy | Craft CMS RCE, credential reuse, bcrypt cracking, telnet privesc |
 | [Nexus](./Nexus) | Linux | Easy | Git history leak, Krayin CRM upload RCE (CVE-2026-38526), path-traversal privesc |
 | [TwoMillion](./TwoMillion) | Linux | Easy | Invite API bypass, mass assignment, command injection, OverlayFS privesc (CVE-2023-0386) |
+| [Principal](./Principal) | Linux | Medium | pac4j-jwt JWE auth bypass (CVE-2026-29000), SSH certificate CA abuse |
 
 ## About me
 
