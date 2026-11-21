@@ -13,6 +13,7 @@ for reconnaissance, exploitation, and privilege escalation.
 | [TwoMillion](./TwoMillion) | Linux | Easy | Invite API bypass, mass assignment, command injection, OverlayFS privesc (CVE-2023-0386) |
 | [Principal](./Principal) | Linux | Medium | pac4j-jwt JWE auth bypass (CVE-2026-29000), SSH certificate CA abuse |
 | [DoubleTake](./DoubleTake) | Linux | Easy | OpenSSH musl auth bypass (SSHole, CVE-2026-123158), Firefox creds, Docker image RCE (CVE-2026-41567) |
+| [Return](./Return) | Windows | Easy | LDAP pass-back credential capture, Server Operators service abuse |
 
 ## About me
 
