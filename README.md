@@ -18,6 +18,7 @@ for reconnaissance, exploitation, and privilege escalation.
 | [Baby](./Baby) | Windows | Medium | Anonymous LDAP leak, password spray, SeBackupPrivilege NTDS.dit dump to PtH |
 | [Blue](./Blue) | Windows | Easy | MS17-010 (EternalBlue) SMBv1 RCE to SYSTEM |
 | [Legacy](./Legacy) | Windows | Easy | MS08-067 SMB RCE to SYSTEM |
+| [Lame](./Lame) | Linux | Easy | Samba 3.0.20 username-map-script RCE (CVE-2007-2447) to root |
 
 ## About me
 
