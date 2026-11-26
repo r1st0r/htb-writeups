@@ -16,6 +16,7 @@ for reconnaissance, exploitation, and privilege escalation.
 | [Return](./Return) | Windows | Easy | LDAP pass-back credential capture, Server Operators service abuse |
 | [Cicada](./Cicada) | Windows | Easy | Guest SMB, password spray, credential chaining, SeBackupPrivilege to PtH |
 | [Baby](./Baby) | Windows | Medium | Anonymous LDAP leak, password spray, SeBackupPrivilege NTDS.dit dump to PtH |
+| [Blue](./Blue) | Windows | Easy | MS17-010 (EternalBlue) SMBv1 RCE to SYSTEM |
 
 ## About me
 
